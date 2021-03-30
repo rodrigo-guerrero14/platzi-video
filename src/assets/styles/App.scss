@@ -1,0 +1,12 @@
+@import './Vars.scss';
+
+html, body{
+  font-family: $theme-font;
+}
+
+.app {
+  background-color: #8f57fd;
+  min-height: 100vh;
+}
+
+@import './Media.scss';

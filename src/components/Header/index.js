@@ -9,7 +9,7 @@ export default function Header(){
 
             <nav className="header__menu">
 
-                <div class="header__menu--profile">
+                <div className="header__menu--profile">
                     <img src={image_user_icon} alt="icon user" />
                     <p>Perfil</p>
                 </div>

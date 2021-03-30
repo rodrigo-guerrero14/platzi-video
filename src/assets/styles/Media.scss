@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px){
+    .main__description--title{
+        font-size: 30px;
+    }
+
+    .footer{
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}

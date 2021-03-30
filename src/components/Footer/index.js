@@ -1,7 +1,11 @@
+import '../../assets/styles/components/footer.scss'
+
 export default function Footer(){
     return(
-        <div>
-            Footer
-        </div>
+        <footer className="footer">
+            <a href="#">Terminos de uso</a>
+            <a href="#">Declaración de privacidad</a>
+            <a href="#">Centro de ayuda</a>
+        </footer>
     )
 }
